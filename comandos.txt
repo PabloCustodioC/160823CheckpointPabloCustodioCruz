@@ -1,0 +1,11 @@
+git init
+git remote add origin 
+touch
+git add .
+git commit
+git push origin main
+git branch
+git checkout
+mkdir
+ls
+mv
