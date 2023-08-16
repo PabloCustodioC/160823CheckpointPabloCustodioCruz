@@ -1,11 +1,238 @@
-git init
-git remote add origin 
-touch
-git add .
-git commit
-git push origin main
-git branch
-git checkout
-mkdir
-ls
-mv
+  1  LS
+    2  cd ..
+    3  ls
+    4  lear
+    5  clear
+    6  ls
+    7  cd Escritorio
+    8  mk file prueba.txt
+    9  clear
+   10  ls
+   11  open bajante 2+1.jpg
+   12  clear
+   13  type mk
+   14  type mk dir
+   15  clear
+   16  type cd
+   17  type mkdir
+   18  clear
+   19  help cd
+   20  man cd
+   21  clear
+   22  man cd
+   23  info cd
+   24  clear
+   25  cd man
+   26  clear
+   27  whatis cd
+   28  clear
+   29  whatis alias
+   30  clear
+   31  man cd
+   32  clear
+   33  help cd
+   34  clear
+   35  touch file.txt prueba.txt prueba2.txt
+   36  touch datos123
+   37  touch file.html
+   38  clear
+   39  ls *.txt
+   40  ls prueba*
+   41  ls datos?
+   42  ls prueba?
+   43  clear
+   44  ls
+   45  ls prueba?
+   46  clear
+   47  touch datos1 datos123 datos 12
+   48  ls *datos
+   49  ls datos*
+   50  ls datos?
+   51  ls datos??
+   52  ls datos???
+   53  clear
+   54  ls *.html
+   55  clear
+   56  ls
+   57  ls [[:lower:]]*
+   58  md dir Prueba
+   59  mkdir Prueba
+   60  ls [[:upper]]*
+   61  ls {12,Prueba,bajante\ {1+1.jpg,2+1.jpg},c{i10k.jpg,lientes\ pendientes\ enero\ PRUEBA.csv},d{atos{,1{,23}},esktop.ini},file.{html,txt},p{oliducto\ {de\ 3-4{\ punta.jpg,.jpg},negro{\ 34.jfif,.jpg}},rueba{.txt,2.txt}},t{anque-para-gas-20-kg.jpg,hinner-estandar-3-7l-d-v.jpg}}
+   62  clear
+   63  ls {12,Prueba,bajante\ {1+1.jpg,2+1.jpg},c{i10k.jpg,lientes\ pendientes\ enero\ PRUEBA.csv},d{atos{,1{,23}},esktop.ini},file.{html,txt},p{oliducto\ {de\ 3-4{\ punta.jpg,.jpg},negro{\ 34.jfif,.jp
+   64  clear
+   65  ls [[:upper]]*
+   66  ls [[:upper:]]*
+   67  clear
+   68  ls [[:upper:]]*
+   69  ls
+   70  clear
+   71  ls [[:lower:]]*
+   72  mkdir PRUEBA
+   73  clea
+   74  clear
+   75  ls {12,Prueba,bajante\ {1+1.jpg,2+1.jpg},c{i10k.jpg,lientes\ pendientes\ enero\ PRUEBA.csv},d{atos{,1{,23}},esktop.ini},file.{html,txt},p{oliducto\ {de\ 3-4{\ punta.jpg,.jpg},negro{\ 34.jfif,.jpg}},rueba{.txt,2.txt}},t{anque-para-gas-20-kg.jpg,hinner-estandar-3-7l-d-v.jpg}}
+   76  clear
+   77  ls [p]*
+   78  ls [pd]*
+   79  clear
+   80  cowsay [hey]
+   81  clear
+   82  ls
+   83  echo "hola ke hace"
+   84  clear
+   85  sudo apt install cowsay
+   86  ls
+   87  cd informes
+   88  ls
+   89  mv [informes/informeAnual.xls] [auditoria/informeAnual.xls]
+   90  pdw
+   91  pwd
+   92  touch pruebaMover.xls
+   93  ls
+   94  mv [pruebaMover.xls] [auditoria/]
+   95  mv [/pruebaMover.xls] [/auditoria]
+   96  ls
+   97  mv pruebaMover.xls auditoria
+   98  ls
+   99  clear
+  100  cd auditoria
+  101  ls
+  102  rm pruebaMover.xls
+  103  ls
+  104  cd..
+  105  cd ..
+  106  ls
+  107  mkdir informes
+  108  cd informes
+  109  touch informeAnual.xls
+  110  ls
+  111  mkdir auditoria
+  112  touch auditoria.xls
+  113  touch reporteConsolidado.xls
+  114  ls
+  115  mv auditoria.xls auditoria
+  116  cd auditoria
+  117  ls
+  118  rm -r 2 3
+  119  ls
+  120  mkdir Ecommerce
+  121  cd Ecommerce
+  122  touch app.js
+  123  touch confing.js
+  124  mkdir db
+  125  git init
+  126  git add.
+  127  git add .
+  128  git commit -m "Primer commit"
+  129  git config --global user.email "pablo,producer21@gmail.com"
+  130  git confing --global user.name "Pablo Custodio"
+  131  git config --global user.name "pablo custodio"
+  132  clear
+  133  wpd
+  134  clear
+  135  ls
+  136  cd db
+  137  touch producto_db.js
+  138  touch carrito_db.js
+  139  cd..
+  140  cd ..
+  141  git --version
+  142  git --version
+  143  git config user.name
+  144  git config user.email
+  145  clear
+  146  mkdir git
+  147  cd git
+  148  git init
+  149  ls --a
+  150  ls -a
+  151  touch app.js prueba.txt prueba2.txt
+  152  git status
+  153  git add .
+  154  git status
+  155  clear
+  156  ls
+  157  rm prueba.txt
+  158  rm prueba2.txt
+  159  ls
+  160  git status
+  161  git add .
+  162  git status
+  163   clear
+  164  cd ..
+  165  mkdir mercadoAbierto
+  166  cd mercadoAbierto
+  167  git init
+  168  touch productos.js
+  169  git status
+  170  git add productos.js
+  171  git status
+  172  git commit -m "mi primer commit"
+  173  git statu
+  174  git status
+  175  git log
+  176  clear
+  177  pwd
+  178  cd ..
+  179  mkdir pruebaGitandGithub
+  180  cd pruebaGitandGithub
+  181  git init
+  182  git remote add originn https://github.com/PabloCustodioC/aprendiendoGitandGithub.git
+  183  git remote -v
+  184  mkdir ejercicioIntegradorC4
+  185  cd ejercicioIntegradorC4
+  186  git init
+  187  git remote add origin https://github.com/PabloCustodioC/ejercicioIntegradorC4.git
+  188  git status
+  189  git add .
+  190  git commit -m "agrego archivo readme"
+  191  git push
+  192  git push -u origin master
+  193  git push -u origin master
+  194  ls
+  195  rm -r pruebaGithub
+  196  rm -r pruebaGitandGithub
+  197  ls -a
+  198  mkdir ClaseEnVivo4
+  199  git clone https://github.com/achaverrar/ctd-git-github.git
+  200  git pull
+  201  ls
+  202  cd ctd-git-github
+  203  git pull
+  204  ls
+  205  git clone https://github.com/PabloCustodioC/repoejercicio.git
+  206  cd repoejercicio
+  207  touch app.js
+  208  git status
+  209  git add app.js
+  210  git status
+  211  git commit -m "mi primer commit"
+  212  git status
+  213  git push
+  214  git status
+  215  top
+  216  h top
+  217  git init
+  218  git remote add origin https://github.com/PabloCustodioC/160823CheckpointPabloCustodioCruz.git
+  219   touch main.js index.html
+  220  git add .
+  221  git commit -m"commit 01 Pablo Custodio Cruz"
+  222  git push
+  223  git push origin master
+  224  git status
+  225  git branch feature
+  226  git checkout feature
+  227  mkdir Hardware Software SeguridadInformatica
+  228  ls
+  229  git checkout main
+  230  git checkout master
+  231  mv main.js resumenHardware.txt
+  232  mv index.html resumenSoftware.txt
+  233  ls
+  234  touch comandos.txt
+  235  git add .
+  236  git commit -m"commit 02 Pablo Custodio Cruz"
+  237  git push origin master
+  238  history
